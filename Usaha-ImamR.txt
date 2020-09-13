@@ -1,5 +1,5 @@
 1. Belajar html
 2. Belajar css
 3. Belajar javascript
-4. Belajar php
+4. Belajar framework codeigniter
 5. Belajar dengan tekun dan konsisten
