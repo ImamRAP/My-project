@@ -1,5 +1,7 @@
 1. Belajar html
 2. Belajar css
 3. Belajar javascript
-4. Belajar php
-5. Belajar dengan tekun dan konsisten
+4. Belajar php dan laravel
+5. Belajar ajax dan jquery
+6. Belajar dengan tekun dan konsisten
+
